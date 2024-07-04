@@ -193,4 +193,7 @@
   .search-box div {
     gap: 5px;
   }
+  .main .bottom-info {
+    display: none;
+  }
 }
