@@ -182,7 +182,7 @@
 @media (max-width:600px) {
   .main-bottom input {
     flex: none;
-    width: 150px;
+    width: 220px;
   }
   .main-bottom img {
     width: 20px;
